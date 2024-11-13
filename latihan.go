@@ -1,6 +1,6 @@
-package latihan_go_module
+package go_app
 
-func AppGoModule() string {
+func SayHello() string {
 	return "Hello DUNIA"
 
 }
