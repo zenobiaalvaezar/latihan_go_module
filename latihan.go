@@ -1,6 +1,6 @@
 package go_app
 
-func SayHello() string {
-	return "Hello DUNIA"
+func AppGoModule() string {
+	return "Hello mater"
 
 }
